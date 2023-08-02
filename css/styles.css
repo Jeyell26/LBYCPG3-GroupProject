@@ -7,6 +7,7 @@
 .homeBody {
     min-height: 100vh;
     background-color: #FDFAE7;
+    overflow: hidden;
 }
 
 .navbar_sidebar {
@@ -107,8 +108,9 @@
 }
 
 .carousel{
+    /* top: 8.5vh; */
 	width:100vw;
-	height:50vh;
+	height:40vh;
 }
 
 .carousel-inner > .carousel-item > img,
@@ -117,4 +119,37 @@
     height: 40vh;
     object-fit: cover;
 	margin: auto;
+}
+
+.leftLabels{
+    font-weight: 600;
+    font-size: 2.3em;
+    font-family: Montserrat;
+    color: #26602F;
+    margin: 100px 100px 100px 100px;
+}
+
+.textLabels{
+    font-weight: 600;
+    font-size: 2.3em;
+    font-family: Montserrat;
+}
+
+a{
+    color: inherit !important;
+}
+
+.textHome{
+    font-weight: 400;
+    font-size: 1.3em;
+    width: 80%;
+    height: 40vh;
+    font-family: Montserrat;
+    color:#26602F;
+    margin: 100px 100px 100px 100px;
+    overflow-y: scroll;
+}
+
+.elgaBorder{
+    border-width: 1px;
 }

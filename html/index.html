@@ -15,93 +15,21 @@
 <body class = "homeBody">
     <!-- TOP AND SIDEBAR -->
     <div id = "movingSideBar"> 
-    <nav class="navbar" id="topbar">
-        <div class="container-fluid">
-            <button class="btn" id="menu-btn"> 
-                <img src="../res/navbar_burger.svg" width="30" height="30">
-            </button>
-            <div class="d-flex justify-content-center w-100">
-                <table id = "header">
-                <tr>
-                    <td rowspan="2">LOGO</td>
-                    <td>De La Salle University </td>
-                </tr>
-                <tr>
-                    <td>Electronics and Computer Engineering</td>
-                </tr>
-                </table>
-                
-            </div>
-        </div>
-    </nav>
-   
-
-    <nav class="navbar_sidebar navbar-expand d-flex flex-column align-item-start" id="sidebar">
-
-    <ul class="navbar-nav d-flex flex-column w-100">
-        <li class="nav-item dropdown w-100">
-            <a href="#" class="nav-link dropdown-toggle text-light pl-4" id="homeDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Home
-            </a>
-            <ul class="dropdown-menu w-100" aria-labelledby="homeDropdown">
-                <li><a href="#" class="dropdown-item text-light pl-4 p-2">TITE </a></li>
-                <li><a href="#" class="dropdown-item text-light pl-4 p-2">Mission</a></li>
-                <li><a href="#" class="dropdown-item text-light pl-4 p-2">Program History</a></li>
-            </ul>
-        </li>
-        <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Expected Lasallian Graduate Attributes (ELGA)</a>
-        </li>
-        <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Program Educational Objectives (PEO)</a>
-        </li>
-        <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Student Outcomes (SO)</a>
-        </li>
-        <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Curriculum Map</a>
-        </li>
-        <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Recognitions, Accreditations and Assessments</a>
-        </li>
-        <li class="nav-item dropdown w-100">
-            <a href="#" class="nav-link dropdown-toggle text-light pl-4" id="degreeDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Degree Programs
-            </a>
-            <ul class="dropdown-menu w-100" aria-labelledby="degreeDropdown">
-                <li><a href="#" class="dropdown-item text-light pl-4 p-2">Undergraduate Programs</a></li>
-                <li><a href="#" class="dropdown-item text-light pl-4 p-2">Graduate Programs</a></li>
-                <li><a href="#" class="dropdown-item text-light pl-4 p-2">Other Options and Specializations</a></li>
-            </ul>
-        </li>
-        <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Enrollment and Graduation Statistics</a>
-        </li>
-        <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Department Organizational Structure(PEO)</a>
-        </li>
-        <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Faculty Profile</a>
-        </li>
-        <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Laboratory and Facilities</a>
-        </li>
-    </ul>
-    </nav>
+        
     </div>
 
-
+    <!-- CAROUSEL HEADER -->
     <div class="flex-container">
         <div id="dlsu_carousel" class="carousel slide">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="../res/cat1.jpg" class="d-block" alt="...">
+              <img src="../res/car1.png" class="d-block" alt="...">
             </div>
             <div class="carousel-item">
-              <img src="../res/cat2.jpg" class="d-block" alt="...">
+              <img src="../res/car2.jpg" class="d-block" alt="...">
             </div>
             <div class="carousel-item">
-              <img src="../res/cat3.jpg" class="d-block" alt="...">
+              <img src="../res/car3.jpg" class="d-block" alt="...">
             </div>
           </div>
           <button class="carousel-control-prev" type="button" data-bs-target="#dlsu_carousel" data-bs-slide="prev">
@@ -113,22 +41,62 @@
             <span class="visually-hidden">Next</span>
           </button>
         </div>
+    </div>
 
-
-    <!-- TO BE IMPLEMENTED -->
+    <div class="d-flex">
+        <div class = "leftLabels">
+            <ul style = "list-style: none;">
+                <li><a style="text-decoration: none" rel="noopener" href="#vision">Vision</a></li>
+                <li><a style="text-decoration: none" rel="noopener" href="#mission">Mission</a></li>
+                <li><a style="font-size: 0.8em; height: 10px; text-decoration: none;" rel="noopener" href="#progHisto">
+                    Program<br>History
+                </a></li>
+            </ul>
+        </div>
+        <div class = "textHome">
+            <p class = "textLabels" id = "vision">Vision Statement</p>
+            <p>
+            The Department of Electronics and Computer Engineering offers Electronics Engineering (ECE) 
+            and Computer Engineering (CpE) programs. The department envisions the ECE and CpE graduates 
+            as competent and ethical professionals in the area they have chosen.  
+            For the ECE, 
+            the areas are in Electronics, Communications, and Digital Signal Processing.  
+            For the CpE, 
+            the areas are in Embedded Systems, Computer Hardware Architecture, Computer Networks, Multimedia Systems and Machine Learning.
+            </p>
+            <p class = "textLabels" id = "mission">Mission Statement</p>
+            <p>
+            The Mission of the Department of Electronic and Computer Engineering is to mold and nurture 
+            ECE and CpE professional engineers  with strong sense of nationalism and who are highly competent 
+            in various field of electronics, communications and computer such as telecommunications, 
+            broadcasting and other communications engineering technologies; industrial electronics  and instrumentation; 
+            semiconductor applications, manufacture and test engineering; systems analysis and controls engineering, 
+            software and hardware engineering, especially the students, towards becoming:
+            </p>
+            <ol>
+                <li>Professionals living the La Sallian values of Religio, Mores and Cultura;</li>
+                <li>Professionals committed to the improvement of the Filipino’s quality of life;</li>
+                <li>Professionals devoted to the standards and dignity of the ECE and CpE professions; and</li>
+                <li>Professionals with a strong sense of nationalism responding to needs of the country and its people.</li>
+            </ol>
+            <p class = "textLabels" id="progHisto">Program History</p>
+            <p>
+            The Department of Electronics and Computer Engineering offers Electronics Engineering (ECE) 
+            and Computer Engineering (CpE) programs. The department envisions the ECE and CpE graduates 
+            as competent and ethical professionals in the area they have chosen.  
+            For the ECE, 
+            the areas are in Electronics, Communications, and Digital Signal Processing.  
+            For the CpE, 
+            the areas are in Embedded Systems, Computer Hardware Architecture, Computer Networks, Multimedia Systems and Machine Learning.
+            </p>
+        </div>
+    </div>
+    
     <!-- bootstrap js -->
     <script src="../js/bootstrap.js"></script>
 
-    <!-- custom js -->
-    <script>
-        var menu_btn = document.querySelector("#menu-btn")
-        var sidebar = document.querySelector("#sidebar")
-        // var container = document.querySelector(".my-container")
-        menu_btn.addEventListener("click", () => {
-            sidebar.classList.toggle("active-nav")
-            // container.classList.toggle("active-cont")
-        })
-    </script>
+    <!-- navbar js -->
+    <script src="../js/navjs.js"></script>
 </body>
 
 </html>
