@@ -1,10 +1,14 @@
 "# LBYCPG3-GroupProject" 
 Group Members
+
 JL Bungay
 
-Create a DECE website with the following details: https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/electronics-computer-engineering/ to an external site.
+Create a DECE website with the following details: 
+https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/electronics-computer-engineering/ 
+to an external site.
 
 Order of Tabs
+
 (JL)
 Home - index.html
 o Vision
@@ -12,9 +16,9 @@ o Mission
 o Program History
 
 
-Expected Lasallian Graduate Attributes (ELGA)
+Expected Lasallian Graduate Attributes (ELGA) - elga.html
 
-Program Educational Objectives (PEO)
+Program Educational Objectives (PEO) - peo.html (fix later)
 
 Student Outcomes (SO)
 
