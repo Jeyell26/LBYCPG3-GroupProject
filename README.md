@@ -22,7 +22,7 @@ Program Educational Objectives (PEO) - peo.html
 
 Student Outcomes (SO) - so.html
 
-Curriculum Map (10 mins)
+Curriculum Map (10 mins) - cmap.html
 
 Recognitions, Accreditations and Assessments (10 mins)
 

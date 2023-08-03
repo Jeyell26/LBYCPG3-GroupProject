@@ -158,6 +158,7 @@ a{
     border-width: 1px;
 }
 
-.soBorder > table > tr, .soBorder > table > tr > td{
+.coBorder{
     border-width: 1px;
+    text-align: center;
 }
