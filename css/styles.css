@@ -153,3 +153,11 @@ a{
 .elgaBorder{
     border-width: 1px;
 }
+
+.soBorder{
+    border-width: 1px;
+}
+
+.soBorder > table > tr, .soBorder > table > tr > td{
+    border-width: 1px;
+}
