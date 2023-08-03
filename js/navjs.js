@@ -39,7 +39,7 @@ writeToHTML =`
             <a href="peo.html" class="nav-link text-light pl-4">Program Educational Objectives (PEO)</a>
         </li>
         <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Student Outcomes (SO)</a>
+            <a href="so.html" class="nav-link text-light pl-4">Student Outcomes (SO)</a>
         </li>
         <li class="nav-item w-100">
             <a href="#" class="nav-link text-light pl-4">Curriculum Map</a>

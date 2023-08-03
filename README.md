@@ -18,26 +18,26 @@ o Program History
 
 Expected Lasallian Graduate Attributes (ELGA) - elga.html
 
-Program Educational Objectives (PEO) - peo.html (fix later)
+Program Educational Objectives (PEO) - peo.html
 
-Student Outcomes (SO)
+Student Outcomes (SO) - so.html
 
-Curriculum Map
+Curriculum Map (10 mins)
 
-Recognitions, Accreditations and Assessments
+Recognitions, Accreditations and Assessments (10 mins)
 
-Degree Programs
+Degree Programs (50 mins)
 o Undergraduate Programs
 o Graduate Programs
 o Other Options and Specializations
 
-Enrollment and Graduation Statistics
+Enrollment and Graduation Statistics - (10 mins)
 
-Department Organizational Structure
+Department Organizational Structure - hard (30 mins)
 
-Faculty Profile
-
-Laboratory and Facilities
+Faculty Profile - Search (HARDD!! 1 Hour?)
+ 
+Laboratory and Facilities - (10 mins)
 
 ------------------------------------------50%------------------------------------------
 
