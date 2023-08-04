@@ -58,7 +58,7 @@ writeToHTML =`
             </ul>
         </li>
         <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Enrollment and Graduation Statistics</a>
+            <a href="egs.html" class="nav-link text-light pl-4">Enrollment and Graduation Statistics</a>
         </li>
         <li class="nav-item w-100">
             <a href="#" class="nav-link text-light pl-4">Department Organizational Structure(PEO)</a>
