@@ -74,6 +74,24 @@ writeToHTML =`
         <li class="nav-item w-100">
         <a href="conf.html" class="nav-link text-light pl-4">Conferences</a>
         </li>
+        <li class="nav-item w-100">
+        <a href="orgs.html" class="nav-link text-light pl-4">Student Organization</a>
+        </li>
+        <li class="nav-item w-100">
+        <a href="le.html" class="nav-link text-light pl-4">Licensure Examination</a>
+        </li>
+        <li class="nav-item w-100">
+        <a href="cpd.html" class="nav-link text-light pl-4">Continuing Professional Development</a>
+        </li>
+        <li class="nav-item w-100">
+        <a href="abof.html" class="nav-link text-light pl-4"Alumni and Board of Advisers</a>
+        </li>
+        <li class="nav-item w-100">
+        <a href="dfap.html" class="nav-link text-light pl-4">Downloadable Forms and Policies</a>
+        </li>
+        <li class="nav-item w-100">
+        <a href="contact.html" class="nav-link text-light pl-4">Contact Us</a>
+        </li>
     </ul>
     </nav>
 `

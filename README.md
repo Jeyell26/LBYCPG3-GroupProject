@@ -37,25 +37,25 @@ Laboratory and Facilities - (10 mins) - labs.html
 
 ------------------------------------------50%------------------------------------------
 
-Research and Publications
+Research and Publications - repub.html
 
-Community Engagement and Linkages
+Community Engagement and Linkages cel.html
 
-Thesis Archives
+Thesis Archives tha.html
 
-Conferences
+Conferences conf.html
 
-Student Organization
+Student Organization - orgs.html
 
-Licensure Examination (if applicable)
+Licensure Examination (if applicable) - le.html
 
-Continuing Professional Development
+Continuing Professional Development - cpd.html
 
-Alumni and Board of Advisers
+Alumni and Board of Advisers  - abof.html
 
-Downloadable Forms and Policies
+Downloadable Forms and Policies - dfap.html
 
-Contact Us
+Contact Us - contact.html
 
 FOLDER SETUPS
 HTML - Pages
