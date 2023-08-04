@@ -62,6 +62,15 @@ writeToHTML =`
         <li class="nav-item w-100">
             <a href="labs.html" class="nav-link text-light pl-4">Laboratory and Facilities</a>
         </li>
+        <li class="nav-item w-100">
+            <a href="orgs.html" class="nav-link text-light pl-4">Student Organization</a>
+        </li>
+        <li class="nav-item w-100">
+            <a href="le.html" class="nav-link text-light pl-4">Licensure Examination</a>
+        </li>
+        <li class="nav-item w-100">
+            <a href="cpd.html" class="nav-link text-light pl-4">Continuing Professional Development</a>
+        </li>
     </ul>
     </nav>
 `
