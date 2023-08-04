@@ -51,11 +51,11 @@ Thesis Archives
 
 (/Jawo) Conferences
 
-Student Organization
+(gelo)Student Organization
 
 Licensure Examination (if applicable)
 
-Continuing Professional Development
+(/gelo)Continuing Professional Development
 
 Alumni and Board of Advisers
 
