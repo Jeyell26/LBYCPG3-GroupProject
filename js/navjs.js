@@ -74,13 +74,15 @@ writeToHTML =`
         </li>
         <li class="nav-item w-100">
             <a href="cel.html" class="nav-link text-light pl-4">Community Engagement and Linkages</a>
-        </li>
-        <li class="nav-item w-100">
-            <a href="awa.html" class="nav-link text-light pl-4">Awards and Achievements</a>
-        </li>
         <li class="nav-item w-100">
             <a href="tha.html" class="nav-link text-light pl-4">Thesis Archives</a>
         </li>
+        <li class="nav-item w-100">
+        <a href="conf.html" class="nav-link text-light pl-4">Conferences</a>
+        </li>
+
+
+       
     </ul>
     </nav>
 `

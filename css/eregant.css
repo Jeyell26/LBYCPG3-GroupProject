@@ -8,6 +8,11 @@
     min-height: 100vh;
     background-color: #FDFAE7;
     overflow: hidden;
+    flex-direction: column;
+    min-height: 100vh;
+    flex-direction: column;
+    display: flex;
+    height: 100%;
 }
 
 .navbar_sidebar {
@@ -150,6 +155,77 @@ a{
     overflow-y: scroll;
 }
 
+.tableHome{
+    font-weight: 400;
+    font-size: 1.3em;
+    font-family: Montserrat;
+    color:#26602F;
+    margin: 10px 20px 120px 20px;
+    height: 80vh;
+    align-items: center;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding-bottom: 20px;
+}
+
+.textHeader{
+    font-weight: 400;
+    font-size: 2.0em;
+    width: 80%;
+    font-family: Montserrat;
+    color:#26602F;
+    margin-top: 6%;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+
+.ttx th{
+    font-family: Montserrat;
+    color:#26602F;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.ttx td{
+    align-items: center;
+    text-align: center;
+    padding: 2px 20px 2px 20px;
+    border-width: 1px;
+}
+
+.in{
+    font-weight: 400;
+    font-size: 2.0em;
+    width: 100%;
+    font-family: Montserrat;
+    color:#26602F;
+    margin-top: 30px;
+    margin-left: 120px;
+    margin-bottom: 20px;
+}
+
+.in1{
+    font-weight: 400;
+    font-size: 1.4em;
+    width: 100%;
+    font-family: Montserrat;
+    color:#26602F;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.in2{
+    font-weight: 400;
+    font-size: 20px;
+    width: 100%;
+    font-family: Montserrat;
+    color:#26602F;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
 .elgaBorder{
     border-width: 1px;
 }
@@ -163,13 +239,42 @@ a{
     text-align: center;
 }
 
-table {
+.tableHome table {
     width: 100%;
+    height: 80%;
+    font-size: 20px;
     border-collapse: collapse;
-  }
+    max-width: 100%;
+    overflow-x: auto;
+    margin: 0 auto;
+    overflow-y: auto;
+}
   
-td {
-border: 1px solid black;
-padding: 0.5rem;
-text-align: center;
+.tableHome td {
+    border: 1px solid black;
+    width: 80%;
+    padding: 10px;
+    text-align: center;
+}
+
+.profID {
+    margin: 2px 40px 2px 40px;
+}
+
+td em{
+    font-size: 15px;
+    color:black;
+}
+
+.aligncenter{
+    justify-content: center;
+}
+
+.scroller{
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.s-indent{
+    margin-left: 40px;
 }

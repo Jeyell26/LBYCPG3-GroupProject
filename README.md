@@ -45,8 +45,6 @@ Laboratory and Facilities - (10 mins)
 
 Community Engagement and Linkages
 
-Awards and Achievements
-
 Thesis Archives
 
 (/Jawo) Conferences
