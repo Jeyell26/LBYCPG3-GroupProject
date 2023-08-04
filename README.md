@@ -9,7 +9,6 @@ to an external site.
 
 Order of Tabs
 
-(JL)
 Home - index.html
 o Vision
 o Mission
@@ -26,28 +25,25 @@ Curriculum Map (10 mins) - cmap.html
 
 Recognitions, Accreditations and Assessments (10 mins)  - raa.html
 
-Degree Programs (50 mins)
-o Undergraduate Programs
-o Graduate Programs
-o Other Options and Specializations
+Degree Programs (50 mins) - degp.html
 
-Enrollment and Graduation Statistics - (10 mins)
+Enrollment and Graduation Statistics - (10 mins) - egs.html
 
-Department Organizational Structure - hard (30 mins)
+Department Organizational Structure - dos.html
 
-Faculty Profile - Search (HARDD!! 1 Hour?)
+Faculty Profile - fac.html
  
-Laboratory and Facilities - (10 mins)
+Laboratory and Facilities - (10 mins) - labs.html
 
 ------------------------------------------50%------------------------------------------
 
-(Jawo) Research and Publications
+Research and Publications
 
 Community Engagement and Linkages
 
 Thesis Archives
 
-(/Jawo) Conferences
+Conferences
 
 Student Organization
 
