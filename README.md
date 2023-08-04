@@ -26,18 +26,18 @@ Curriculum Map (10 mins) - cmap.html
 
 Recognitions, Accreditations and Assessments (10 mins)  - raa.html
 
-Degree Programs (50 mins)
+Degree Programs (50 mins) - degp.html
 o Undergraduate Programs
 o Graduate Programs
 o Other Options and Specializations
 
-Enrollment and Graduation Statistics - (10 mins)
+Enrollment and Graduation Statistics - (10 mins) - egs.html
 
 Department Organizational Structure - hard (30 mins)
 
 Faculty Profile - Search (HARDD!! 1 Hour?)
  
-Laboratory and Facilities - (10 mins)
+Laboratory and Facilities - (10 mins) - labs.html
 
 ------------------------------------------50%------------------------------------------
 
