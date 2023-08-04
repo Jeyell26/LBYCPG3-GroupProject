@@ -57,22 +57,10 @@ writeToHTML =`
             <a href="dos.html" class="nav-link text-light pl-4">Department Organizational Structure (DOS)</a>
         </li>
         <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Faculty Profile</a>
+            <a href="fac.html" class="nav-link text-light pl-4">Faculty Profile</a>
         </li>
         <li class="nav-item w-100">
             <a href="labs.html" class="nav-link text-light pl-4">Laboratory and Facilities</a>
-        </li>
-        <li class="nav-item w-100">
-            <a href="repub.html" class="nav-link text-light pl-4">Research and Publications</a>
-        </li>
-        <li class="nav-item w-100">
-            <a href="cel.html" class="nav-link text-light pl-4">Community Engagement and Linkages</a>
-        </li>
-        <li class="nav-item w-100">
-            <a href="awa.html" class="nav-link text-light pl-4">Awards and Achievements</a>
-        </li>
-        <li class="nav-item w-100">
-            <a href="tha.html" class="nav-link text-light pl-4">Thesis Archives</a>
         </li>
     </ul>
     </nav>

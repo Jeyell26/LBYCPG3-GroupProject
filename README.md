@@ -27,21 +27,18 @@ Curriculum Map (10 mins) - cmap.html
 Recognitions, Accreditations and Assessments (10 mins)  - raa.html
 
 Degree Programs (50 mins) - degp.html
-o Undergraduate Programs
-o Graduate Programs
-o Other Options and Specializations
 
 Enrollment and Graduation Statistics - (10 mins) - egs.html
 
-Department Organizational Structure - hard (30 mins)
+Department Organizational Structure - dos.html
 
-Faculty Profile - Search (HARDD!! 1 Hour?)
+Faculty Profile - fac.html
  
 Laboratory and Facilities - (10 mins) - labs.html
 
 ------------------------------------------50%------------------------------------------
 
-(Jawo) Research and Publications
+Research and Publications
 
 Community Engagement and Linkages
 
@@ -49,13 +46,13 @@ Awards and Achievements
 
 Thesis Archives
 
-(/Jawo) Conferences
+Conferences
 
-(gelo)Student Organization
+Student Organization
 
 Licensure Examination (if applicable)
 
-(/gelo)Continuing Professional Development
+Continuing Professional Development
 
 Alumni and Board of Advisers
 
