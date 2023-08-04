@@ -24,7 +24,7 @@ Student Outcomes (SO) - so.html
 
 Curriculum Map (10 mins) - cmap.html
 
-Recognitions, Accreditations and Assessments (10 mins)
+Recognitions, Accreditations and Assessments (10 mins)  - raa.html
 
 Degree Programs (50 mins)
 o Undergraduate Programs

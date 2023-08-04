@@ -42,10 +42,10 @@ writeToHTML =`
             <a href="so.html" class="nav-link text-light pl-4">Student Outcomes (SO)</a>
         </li>
         <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Curriculum Map</a>
+            <a href="cmap.html" class="nav-link text-light pl-4">Curriculum Map</a>
         </li>
         <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Recognitions, Accreditations and Assessments</a>
+            <a href="raa.html" class="nav-link text-light pl-4">Recognitions, Accreditations and Assessments</a>
         </li>
         <li class="nav-item dropdown w-100">
             <a href="#" class="nav-link dropdown-toggle text-light pl-4" id="degreeDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
