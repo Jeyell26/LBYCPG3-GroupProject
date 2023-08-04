@@ -41,7 +41,7 @@ Laboratory and Facilities - (10 mins)
 
 ------------------------------------------50%------------------------------------------
 
-Research and Publications
+(Jawo) Research and Publications
 
 Community Engagement and Linkages
 
@@ -49,7 +49,7 @@ Awards and Achievements
 
 Thesis Archives
 
-Conferences
+(/Jawo) Conferences
 
 Student Organization
 

@@ -28,7 +28,7 @@
 }
 #sidebar{
     z-index: 2;
-    top: 8.3vh;
+    padding-top: 5%;
 }
 
 #header {
