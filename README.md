@@ -41,7 +41,7 @@ Laboratory and Facilities - (10 mins) - labs.html
 
 ------------------------------------------50%------------------------------------------
 
-Research and Publications
+(Jawo) Research and Publications
 
 Community Engagement and Linkages
 
@@ -49,13 +49,13 @@ Awards and Achievements
 
 Thesis Archives
 
-Conferences
+(/Jawo) Conferences
 
-Student Organization
+(gelo)Student Organization
 
 Licensure Examination (if applicable)
 
-Continuing Professional Development
+(/gelo)Continuing Professional Development
 
 Alumni and Board of Advisers
 
