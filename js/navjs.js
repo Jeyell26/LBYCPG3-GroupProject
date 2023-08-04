@@ -67,7 +67,7 @@ writeToHTML =`
             <a href="#" class="nav-link text-light pl-4">Faculty Profile</a>
         </li>
         <li class="nav-item w-100">
-            <a href="#" class="nav-link text-light pl-4">Laboratory and Facilities</a>
+            <a href="labs.html" class="nav-link text-light pl-4">Laboratory and Facilities</a>
         </li>
     </ul>
     </nav>
@@ -78,9 +78,19 @@ document.getElementById("movingSideBar").innerHTML = writeToHTML;
 window.onload = function () {
     var menu_btn = document.querySelector("#menu-btn")
         var sidebar = document.querySelector("#sidebar")
+        var i = 0;
         // var container = document.querySelector(".my-container")
         menu_btn.addEventListener("click", () => {
             sidebar.classList.toggle("active-nav")
             // container.classList.toggle("active-cont")
+            if(i == 0){
+                menu_btn.innerHTML = "<img src=\"../res/navbar_close.svg\" width=\"30\" height=\"30\">";
+                i = 1;
+            }
+            else{
+                menu_btn.innerHTML = "<img src=\"../res/navbar_burger.svg\" width=\"30\" height=\"30\">";
+                i = 0;
+            }
+            
         })
 }
