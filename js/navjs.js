@@ -84,7 +84,7 @@ writeToHTML =`
         <a href="cpd.html" class="nav-link text-light pl-4">Continuing Professional Development</a>
         </li>
         <li class="nav-item w-100">
-        <a href="abof.html" class="nav-link text-light pl-4"Alumni and Board of Advisers</a>
+        <a href="abof.html" class="nav-link text-light pl-4">Alumni and Board of Advisers</a>
         </li>
         <li class="nav-item w-100">
         <a href="dfap.html" class="nav-link text-light pl-4">Downloadable Forms and Policies</a>
