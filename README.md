@@ -9,7 +9,6 @@ to an external site.
 
 Order of Tabs
 
-(JL)
 Home - index.html
 o Vision
 o Mission
