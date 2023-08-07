@@ -27,7 +27,7 @@ Recognitions, Accreditations and Assessments (10 mins)  - raa.html
 
 Degree Programs (50 mins) - degp.html
 
-Enrollment and Graduation Statistics - (10 mins) - egs.html
+Enrollment and Graduation Statistics - egs.html
 
 Department Organizational Structure - dos.html
 
